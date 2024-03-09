@@ -2,18 +2,29 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+欢迎来到我的个人主页！这里将为您介绍一些我热爱的活动和爱好。
 
-[Link to another page](./another-page.html).
+# 骑行
+喜欢在路上的感觉。自由自在的骑行，想走就走，想停就停。不在乎骑行的终点，在乎的是沿途的风景和欣赏风景的心情。和大部分骑行者一样，我既爱骑行也爱拍照，想用图片记录自己的青春，希望老了以后翻看相簿，可以有满满的回忆。骑行后将图片上传到这个网站上，既是为了分享旅途时的心情，更是想告诉朋友们：我翻越了雪山，徜徉了原始森林，同时也超越了自我，请为我高兴。
+![骑行图片]()
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# 音乐
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+# 旅行
 
+# 摄影（记录生活）
+
+
+
+
+
+
+这只是我生活中一小部分的爱好，希望您在浏览我的个人主页时能更多了解我！
+
+
+<!--
 ## Header 2
 
 > This is a blockquote following a header.
@@ -120,4 +131,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+```-->
