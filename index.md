@@ -9,7 +9,7 @@ layout: default
 
 一点趣事“路上，碰到一个强壮的骑行大佬，座驾是专业的公路车。虽然超了几次，也看他笃悠悠的拍照、欣赏风景，最终还是只能远眺他先到了神州半岛。人生大约也是如此，座驾还是很重要的。有句话：我花了这么多年、才能陪你喝咖啡。但是至少、在他休息的时候，我依然在骑行，才有远眺他先触达终点的资格。最终都到了，只是时间早晚而已。哪怕只能望着你的背影、一路上更加艰辛。骑行和跑步，都是遇见最美的自己的过程。”
 
-<img src="images/1.jpg" alt="东湖" width="300"/> <img src="images/2.jpg" alt="海南" width="300"/>
+<img src="images/1.jpg" alt="东湖" height="300" width="200"/> <img src="images/2.jpg" alt="海南"  height="300" width="400"/>
 
 
 
@@ -30,7 +30,7 @@ layout: default
 <img src="lvxing/1 (7).jpg" alt="图片2描述" height="200" width="300"/><img src="lvxing/1(8).jpg" alt="图片2描述" height="200" width="300"/>
 
 # 摄影（记录生活）
-
+我喜欢在路上遇到好的风景的时候记录下来。
 
 
 
