@@ -37,8 +37,10 @@ layout: default
 <img src="sheying/1 (7).jpg" alt="图片2描述" height="200" width="300"/><img src="sheying/1 (8).jpg" alt="图片2描述" height="200" width="300"/>
 
 # 话剧（互动式）
-喜欢线下看互动式沉浸式话剧，体验感拉满。
+喜欢线下看互动式沉浸式话剧和脱口秀，体验感拉满。
 
+<img src="huaju/1 (1).jpg" alt="图片1描述" height="200" width="300"/> <img src="huaju/1 (2).jpg" alt="图片2描述" height="200" width="300"/><img src="huaju/1 (3).jpg" alt="图片2描述" height="200" width="300"/>
+<img src="huaju/1 (4).jpg" alt="图片1描述" height="200" width="300"/> 
 
 
 这只是我生活中一小部分的爱好，希望您在浏览我的个人主页时能更多了解我！
