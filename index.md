@@ -32,6 +32,9 @@ layout: default
 # 摄影（记录生活）
 我喜欢在路上遇到好的风景的时候记录下来。
 
+<img src="sheying/1 (1).jpg" alt="图片1描述" height="200" width="300"/> <img src="sheying/1 (2).jpg" alt="图片2描述" height="200" width="300"/><img src="sheying/1 (3).jpg" alt="图片2描述" height="200" width="300"/>
+<img src="sheying/1 (4).jpg" alt="图片1描述" height="200" width="300"/> <img src="sheying/1 (5).jpg" alt="图片2描述" height="200" width="300"/><img src="sheying/1 (6).jpg" alt="图片2描述" height="200" width="300"/>
+<img src="sheying/1 (7).jpg" alt="图片2描述" height="200" width="300"/><img src="sheying/ 1(8).jpg" alt="图片2描述" height="200" width="300"/>
 
 
 
