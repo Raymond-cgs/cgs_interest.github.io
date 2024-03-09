@@ -25,9 +25,9 @@ layout: default
 去看日月星辰，山川湖海，去看时间万象，人生百态.
 2024，我永远在路上
 
-<img src="lvxing/1(1).jpg" alt="图片1描述" height="200" width="300"/> <img src="lvxing/1(2).jpg" alt="图片2描述" height="200" width="300"/><img src="lvxing/1(3).jpg" alt="图片2描述" height="200" width="300"/>
-<img src="lvxing/1(4).jpg" alt="图片1描述" height="200" width="300"/> <img src="lvxing/1(5).jpg" alt="图片2描述" height="200" width="300"/><img src="lvxing/1(6).jpg" alt="图片2描述" height="200" width="300"/>
-<img src="lvxing/1(7).jpg" alt="图片2描述" height="200" width="300"/><img src="lvxing/1(8).jpg" alt="图片2描述" height="200" width="300"/>
+<img src="lvxing/1 (1).jpg" alt="图片1描述" height="200" width="300"/> <img src="lvxing/1 (2).jpg" alt="图片2描述" height="200" width="300"/><img src="lvxing/1 (3).jpg" alt="图片2描述" height="200" width="300"/>
+<img src="lvxing/1 (4).jpg" alt="图片1描述" height="200" width="300"/> <img src="lvxing/1 (5).jpg" alt="图片2描述" height="200" width="300"/><img src="lvxing/1 (6).jpg" alt="图片2描述" height="200" width="300"/>
+<img src="lvxing/1 (7).jpg" alt="图片2描述" height="200" width="300"/><img src="lvxing/1(8).jpg" alt="图片2描述" height="200" width="300"/>
 
 # 摄影（记录生活）
 
