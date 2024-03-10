@@ -8,7 +8,7 @@ layout: default
 喜欢在路上的感觉。自由自在的骑行，不在乎骑行的终点。
 
 
-<img src="images/9.jpg" alt="" height="300" width="200"/> <img src="images/10.jpg" alt=""  height="300" width="400"/>
+<img src="images/9.jpg" alt="" height="200" width="300"/> <img src="images/10.jpg" alt=""  height="200" width="250"/>
 
 
 
